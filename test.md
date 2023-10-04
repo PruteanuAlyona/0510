@@ -9,12 +9,9 @@ Ghjhfurhtuhrtjntgh
 опрпрап
 git branch -показать все ветки
 
+Погода сегодня ужасная, ветер сильно дует, 
 
-gjhgfhffjkjfkjdhiejrgiujjgjtjtutitjt
 
-gi
-git branch -показать все ветки
-git branch -показать все веткиt branch -показать все ветки
-jhdfjhrfjhrughru8475857686709670967
-git branch -показать все ветки
-git branch -показать все ветки
+и при этом тормозит интернет, видимо сбой какой то
+
+а я учусь в Гикбрейнсу
